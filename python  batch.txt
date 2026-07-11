@@ -1,0 +1,94 @@
+ python    
+
+
+ what is a program  ? 
+    >> it is a set of instraction given to a system to perform a specific task.
+
+pograming language ? 
+
+programming language  is classified as :
+
+ 1)  low level lang : 
+                                       it is a lang of system ,  system can only understand low level lang . it is also called as machine language 
+
+ 2)    high level lang :  
+                                      it is a lang written in human readable format , human can read this , memorise  this , and lastly apply meaningful logic                                       with this .
+ generally written in english , hindi , sanskrit  , latin , chinese .
+
+
+
+translator  :  as machine can only understand low level lang (  binary lang) so we need a translator which can convert our high level                          written code into low level code .
+
+                                  TRANSLATOR 
+   HLL  ------------------------------------------------------------LLL
+source code                                              machine code 
+
+###  a line of code is called  statement in python .
+
+types of translator :
+1)  interpretter : 
+                                it convert our sourcecode written in HLL into machine code ( binary code ), line by line ( statement by statement )
+   if and only if there is no error in our statement .
+
+====> does not create a seperate .exe file but instead
+======>   translated code directly send to cpu for processing . ( on the fly)
+====>  RUN   TIME   ERROR
+
+
+2) compiler  :  it convert our source code written in  HLL into machine code (binary code) in one go ,(  whole file at once )
+                                                                                                                                                                                                      ( whole project at once ) .
+
+if and only if there is no syntax error in our source code ( files ) .
+===>  create a seperate .exe file which is runable . 
+=====>  SYNTAX   ERROR 
+
+
+
+python code runner ==  I D E >>  intregrated development environment.
+
+DA                                                        PYTHON FS
+  
+IDLE ( default I D E ) 
+ 
+JUPYTER NOTEBOOK                         VS CODE 
+PYCHARM                                                  PYCHARM
+GOOGLE  COLAB                                      SUBLIME 
+
+
+
+## HOW PYTHON CODE RUN 
+==== DIAGRAM 
+
+### INTRODUCTION   ==   python is a general purpose high level language.  it is created by guido van rossum in early 90's  ( 1994 - 1995 ) 
+
+APPLICATION  :   
+1)  DATA ANALYTICS  \  MACHINE  LEARNING \ AI.
+2)   AUTOMATION   (  HUMAN INTERVENSION  NELIGIBLE )
+3) WEB APPLICATION 
+4)  GAME  DEVELOPMENT
+5)  API 'S  BUILD
+6)   SERVER SIDE SCRIPTING
+
+
+
+### comment defination ==  in programming whenever programmer want to give information about  the source code written by him                                                                  then he \ she  uses the comment to do so .
+comment is a simple text data which give information about the source code whenever compiler encounter comment its simply ignore the text written after words . 
+ 
+two types of comment
+1) single line comment ==   #
+2)   multi line comment ==  ' ' '
+
+
+##  function defination ==  it is  a reusable block of code which is define to perform a specific task 
+it is classified as 
+1) pre defined  (build in )  function
+2)  user defined  function
+
+
+
+#### variables === in any programming language we want to process our data so these data must be store somewhere in main memory so                                     our c p u enable to process them .  
+                                     with the help of variables we can take access of this memory and the data store there 
+
+defination   ==== it is a refrence to a memory location where our object (data)  is stored.
+                                  with the help of variable we can take access of that data element ( object) 
+ and data_types   
